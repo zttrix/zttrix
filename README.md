@@ -5,6 +5,6 @@ City: St. Petersburg :ru:
 Can speak: 🇺🇸, 🇷🇺, 🇨🇳, 🇺🇦  
 Programming on: 🐍Python, 💎Ruby  
 Telegram: @alexwalterz  
-OS: macOS 10.14 (OC0.9.1)  
+OS: macOS 10.14 (OC 0.9.1)  
 
-Sometimes write some guides
+Sometimes write some guides, or post sth on <a href="https://zttrix.github.io/">my site</a>
