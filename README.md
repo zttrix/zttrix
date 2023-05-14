@@ -1,4 +1,10 @@
 ### Hi there 👋
-I am ZTrix, beginning :snake:Python+:gem:Ruby programmer  
-Looking for challenges, text me @alexwalterz (Telegram) with your programm idea.
+I am ZTrix  
+Real name: Vlad Skiba  
+City: St. Petersburg :ru:  
+Can speak: 🇺🇸, 🇷🇺, 🇨🇳, 🇺🇦  
+Programming on: 🐍Python, 💎Ruby  
+Telegram: @alexwalterz  
+OS: macOS 10.14 (OC0.9.1)  
 
+Sometimes write some guides
